@@ -1,4 +1,4 @@
-# NEM-DOCS-CHINESE
+# NEM-DOCS-CH
 NEM 中文文档
 Translation from “http://docs.nem.io/en”  
 从“http://docs.nem.io/en” 对照翻译过来，适用于中国技术社区了解和使用NEM技术，此文档更适用于NEM1.0
